@@ -4,4 +4,4 @@ Already publically available, just sharing in case useful to others and for my o
 
 Here's a pretty picture made with the data:
 
-!(Lake Champlain Watershed Map)[http://i.imgur.com/2hxEnN8.png]
+![Lake Champlain Watershed Map](http://i.imgur.com/2hxEnN8.png)
