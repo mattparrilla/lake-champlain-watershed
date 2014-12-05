@@ -1,0 +1,3 @@
+Version Data for:  USGS National Hydrography Dataset (NHD) Best Resolution for HU8-04150406 20141122 HU-8 Subbasin Shapefile
+Beginnning Date of Data:  01/08/2003
+End Date of Data:  01/03/2013
